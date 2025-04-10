@@ -4,6 +4,10 @@
 
 ---
 
+[Watch the demo video](https://streamable.com/0sbjip)
+
+---
+
 ## 🌟 Features
 
 ### 👥 Group Management
@@ -73,13 +77,7 @@ GitHub: [@mehrzad-dev](https://github.com/mehrzad-dev)
 ---
 
 
----
 
-## ✨ Author
 
-Created by **Zad Babaei**  
-GitHub: [@mehrzad-dev](https://github.com/mehrzad-dev)
-
----
 
 
